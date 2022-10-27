@@ -7,5 +7,5 @@ The code will be released soon.
 
 ![](https://github.com/roylin1229/GEDRLSD/blob/main/img.png)  
 
-Google Drive (1080P): https://drive.google.com/file/d/1YSJfLtn9wmFatSYiP3ZKAFB5zD8NVgvp/view?usp=sharing  
-Google Drive (720P): https://drive.google.com/file/d/1cZvTR_PJPcvgXwuwWT1IxV2yiS4ZnTnw/view?usp=sharing  
+Google Drive (1080P): https://drive.google.com/file/d/1bX7EqAX_BwqjtHSOcJxXrZaZVyrkcXmI/view?usp=sharing    
+Google Drive (720P): https://drive.google.com/file/d/1B_2T6wO31ws-n4uRCD3QHxwErHdJlgvY/view?usp=sharing  
