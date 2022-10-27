@@ -3,7 +3,13 @@ The GEDRLSD algorithm.
 
 The code will be released soon.
 
-# Video demo
+# The visual localization system with line segments detected by the GEDRLSD algorithm
+
+Data for visual localization database creation (08/04)  
+Data for visual localization (10/26)
+
+The visual localization system with the GEDRLSD line segments 
+achieves centimeter-level positioning accuracy.
 
 ![](https://github.com/roylin1229/GEDRLSD/blob/main/img.png)  
 
