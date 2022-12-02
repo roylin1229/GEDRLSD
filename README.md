@@ -1,6 +1,9 @@
 # GEDRLSD
 The GEDRLSD algorithm.
 
+Demo of level-line guided edge drawing 
+https://drive.google.com/file/d/1cl5ByQVWHgpcfRRC5zCfc-aoAacj3-Y8/view?usp=sharing  
+
 The code will be released soon.
 
 # The visual localization system with line segments detected by the GEDRLSD algorithm
