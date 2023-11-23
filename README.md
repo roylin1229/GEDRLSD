@@ -1,7 +1,7 @@
 # The GEDRLSD algorithm
 X. Lin, Y. Zhou, Y. Liu and C. Zhu, "Level-Line Guided Edge Drawing For Robust Line Segment Detection," in ICASSP, 2023.
 
-The code will be released soon.
+Please refer to the extended version (E2LSD, https://github.com/roylin1229/E2LSD) of this algorithm.  
 
 # Video demo for visual localization with line segments detected by the GEDRLSD algorithm.
 
