@@ -1,6 +1,7 @@
 # GEDRLSD algorithm
 **Level-Line Guided Edge Drawing For Robust Line Segment Detection**  
 
+# Implementation
 Please refer to the extended version (E2LSD, https://github.com/roylin1229/E2LSD) of this algorithm.  
 
 # Video demo for visual localization with line segments detected by the GEDRLSD algorithm.
